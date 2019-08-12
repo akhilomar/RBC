@@ -1,5 +1,15 @@
 body {
-  margin: 0;
+ 
+ 
+  background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3df49283717677.5d48423a09dc6.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+ 
+  
+
+  
+  
+
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;

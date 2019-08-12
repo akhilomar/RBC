@@ -1,0 +1,43 @@
+
+.btn-container{
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+}
+.button{
+    border: 1px solid;
+    border-radius:  0;
+    border-color: white;
+    width:25%;   
+    background: #7ed6df;
+    background-color: none;
+    color: white;
+    outline: none;
+    font-size: 1.5rem;
+ 
+}
+
+button:nth-child(17){
+    width: 50%;
+    border-radius:0 0 0 6px; 
+}
+button:nth-child(4n){
+    background: #4b4b4b;
+    color: white;
+}
+button:last-child{
+    background: #4b4b4b;
+    color: white;
+}
+button:nth-child(-n+3){
+    background: #3F51B5;
+    color: white;
+}
+button:hover {
+    color: #2C3A47;
+    
+    z-index: 6;
+  }
+  button:last-child{
+      border-radius:0 0 6px 0;
+  }
