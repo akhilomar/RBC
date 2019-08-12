@@ -1,13 +1,13 @@
 .screen{
 
-    height: 3rem;
+    height: 5rem;
     background: white;
     color: #182C61;
     font-size:20px;
     padding-top: none;
-    padding-bottom: 3rem;
-    padding-right: 0.5em;
-    padding-left: 0.5em;
+    padding-bottom: 5rem;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
     text-align: right;
     border-radius:6px 6px 0 0;
     font-family: 'Heebo', sans-serif;
